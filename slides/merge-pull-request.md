@@ -2,4 +2,4 @@
 
 Merge the pull request back into develop (usually after a code review)
 
-![merge request](/resources/images/merge-request.png "merge request")
+![merge request](http://bigcompass.com/presentations/git-flow-demo/images/merge-request.png "merge request")
