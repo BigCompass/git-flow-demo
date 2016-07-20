@@ -1,4 +1,7 @@
-<h2>Background Info</h2>
+## Background Info
 
-<p>git-flow is a set of automated tools to simplify project development using git</p>
-<p>git-flow operates in addition to </p>
+### what is it?
+* a tool to simplify project development using git
+* implements [this git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+* operates **_in addition_** to git. You can still use all git commands
+* for more information, see powerpoint
