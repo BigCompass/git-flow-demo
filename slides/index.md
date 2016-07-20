@@ -1,10 +1,8 @@
 
 # git-flow
 
-From the terminal, pop in:
+What it is and how to use it.
 
-  ```yo reveal:slide "Slide Title"```
+###### right: what it is
 
-Available options:
-
- ```--markdown --attributes --notes```
+###### down: how to use it
