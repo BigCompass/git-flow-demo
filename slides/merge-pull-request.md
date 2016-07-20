@@ -1,3 +1,5 @@
-<h2>merge pull request</h2>
+## 10. merge pull request
 
-<p>Please change me!</p>
+Merge the pull request back into develop (usually after a code review)
+
+![merge request](/resources/images/merge-request.png "merge request")
