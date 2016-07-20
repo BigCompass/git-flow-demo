@@ -4,6 +4,6 @@ Create pull request in github:
 
 * make sure the base branch is develop
 
-![create request](http://bigcompass.com/presentations/git-flow-demo/images/create-request.png "create request")
+![create request](/resources/images/create-request.png "create request")
 
-![create request message](http://bigcompass.com/presentations/git-flow-demo/images/create-request-message.png "create request message")
+![create request message](/resources/images/create-request-message.png "create request message")
