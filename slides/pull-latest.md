@@ -1,3 +1,7 @@
-<h2>Pull latest</h2>
+## 2. Pull latest
 
-<p>Please change me!</p>
+Always pull the latest from develop to avoid merge conflicts.
+
+`git pull origin develop`
+
+![pull develop](/resources/images/pull-develop.png "pull develop")

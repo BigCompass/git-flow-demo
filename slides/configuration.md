@@ -6,4 +6,4 @@ git-flow must be added to an existing .git repository (run git init first)
 2. `git flow init`
 3. accept all default values
 
-![alt text](/resources/images/git-flow-init.png "git flow init")
+![git flow init](/resources/images/git-flow-init.png "git flow init")

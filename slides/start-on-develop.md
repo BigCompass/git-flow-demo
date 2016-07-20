@@ -1,3 +1,7 @@
-<h2>Start on develop</h2>
+## 1. start on develop
 
-<p>Please change me!</p>
+all feature branches are based on develop, so make sure to start there.
+
+`git checkout develop`
+
+![start on develop](/resources/images/start-on-develop.png "start on develop")
