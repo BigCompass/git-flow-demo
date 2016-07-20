@@ -4,4 +4,4 @@
 * a tool to simplify project development using git
 * implements [this git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 * operates **_in addition_** to git. You can still use all git commands
-* for more information, see powerpoint
+* check out the [cheat sheet](http://danielkummer.github.io/git-flow-cheatsheet/)
