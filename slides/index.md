@@ -1,8 +1,6 @@
 
 # git-flow
 
-What it is and how to use it.
+How to use it.
 
-###### right: what it is
-
-###### down: how to use it
+For information on what it is, see powerpoint.
