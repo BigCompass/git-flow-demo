@@ -1,4 +1,18 @@
 [
     "index.md",
-    "git-and-you.html"
+    "overview.html",
+    "background.html",
+    "installation.html",
+    "configuration.html",
+    "start-on-develop.html",
+    "pull-latest.html",
+    "start-new-feature.html",
+    "do-some-work.html",
+    "git-add-changes.html",
+    "commit.html",
+    "repeat-until-feature-is-done.html",
+    "publish-feature.html",
+    "create-pull-request.html",
+    "merge-pull-request.html",
+    "start-over-with-next-feature.html"
 ]
