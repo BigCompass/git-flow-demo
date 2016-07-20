@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "git-flow",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "paganor",
+    "githubRepository": "git-flow-demo"
+  }
+}
