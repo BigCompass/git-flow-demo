@@ -1,3 +1,5 @@
-<h2>Start new feature</h2>
+## 3. Start new feature
 
-<p>Please change me!</p>
+`git flow feature start featureName`
+
+![start new feature](/resources/images/feature-start.png "start new feature")

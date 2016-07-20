@@ -1,3 +1,7 @@
-<h2>commit</h2>
+## 6. Commit your changes
 
-<p>Please change me!</p>
+Commit and leave a message describing changes
+
+![git commit](/resources/images/commit.png "git commit")
+
+![commit message](/resources/images/commit-message.png "commit message")

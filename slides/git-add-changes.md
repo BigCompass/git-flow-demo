@@ -1,3 +1,5 @@
-<h2>git add changes</h2>
+## 5. git add changes
 
-<p>Please change me!</p>
+Add changes as you normally would: `git add .`
+
+![git add](/resources/images/git-add.png "git add")

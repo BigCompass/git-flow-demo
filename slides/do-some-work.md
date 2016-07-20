@@ -1,3 +1,5 @@
-<h2>Do some work</h2>
+## 4. Do some work
 
-<p>Please change me!</p>
+You can view changes with `git status`
+
+![git status](/resources/images/git-status.png "git status")
